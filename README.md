@@ -15,7 +15,7 @@
 
 💬 Ask me about **Ecology, Coastal Ecosystems, Wildlife... or anything [here](https://hannahalinehenry.wixsite.com/hannah-henry)**
 
-⚡ Fun fact **I have studied dolphins and sea turtles!**
+⚡ Fun fact **I have researched dolphins, fisheries, birds, and sea turtles!**
 
  </div>
  
