@@ -11,11 +11,11 @@
  
  🌎 I’m currently working on a **coupled landscape and human-dynamics modeling framework**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **CoAStal Community-lAnDscape Evolution (CASCADE) model**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Ecology, Coastal Ecosystems, Wildlife... or anything [here](https://hannahalinehenry.wixsite.com/hannah-henry)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **I have studied dolphins and sea turtles!**
 
  </div>
  
