@@ -9,13 +9,11 @@
 
 <div align="center">
  
- 🌎 I’m currently working on a **coupled landscape and human-dynamics modeling framework**
+ 🌎 I’m currently working on forecasting **developed barrier island evolution**
  
- 🌱 I’m currently learning **CoAStal Community-lAnDscape Evolution (CASCADE) model**
+ 🌱 I’m currently using the **CoAStal Community-lAnDscape Evolution (CASCADE) model**
 
-💬 Ask me about **Ecology, Coastal Ecosystems, Wildlife... or anything [here](https://hannahalinehenry.wixsite.com/hannah-henry)**
-
-⚡ Fun fact **I have researched dolphins, fisheries, birds, and sea turtles!**
+💬 Ask me about **coastal gemorphology, wildlife... or anything [here](https://hannahalinehenry.wixsite.com/hannah-henry)**
 
  </div>
  
